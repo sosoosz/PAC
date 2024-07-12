@@ -9,3 +9,7 @@ Autores:
 António Damião nº 25899, af940697@gmail.com,
 Beatriz Sargaço, nº 25901, beatrizigsargaco@gmail.com
 Sofia Palma nº 25909, SofiaPalma2003@gmail.com.
+
+ 
+ ![logo](https://github.com/user-attachments/assets/81e2bb74-b73a-454b-b4b8-23023fd1ae9e) 
+
