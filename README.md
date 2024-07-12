@@ -6,6 +6,6 @@ As funcionalidades implementadas na nossa aplicação são: adicionar, editar e 
 
 
 Autores:
-António Damião, nº 25899
+António Damião nº 25899, af940697@gmail.com.
 Beatriz Sargaço, nº 25901
 Sofia Palma nº 25909, SofiaPalma2003@gmail.com.
