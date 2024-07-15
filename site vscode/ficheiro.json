@@ -1,0 +1,47 @@
+{
+
+    "utilizadores": [
+
+        {
+            "nome": "Carlos Almeida",
+            "comentarios": "Com Med O'Clock, alterar a minha medicação tornou-se uma tarefa muito mais fácil."
+        },
+
+        {
+            "nome": "Ana Rodrigues",
+            "comentarios": "A minha mãe tem problemas de memória e com esta aplicação organizar os medicamentos que ela toma e os horários é muito mais simples."
+            
+        },
+
+        {
+            "nome": "Beatriz Costa",
+            "comentarios": "Apagar e adicionar medicamentos para a minha filha nesta aplicação é facil e rapido, além de ser bastante direto para aceder aos medicamentos."
+        },
+        
+        { 
+            
+        "nome": "Raquel Nobre",
+        "comentarios": "Desde que comecei a utilizar esta aplicação, mudou a minha vida! 10/10"
+
+
+
+    },
+
+    
+    {   "nome": "Manuel Silva",
+        "comentarios": "Tenho alguns problemas em gerir as medicações, então esta aplicação salvou a minha vida!"
+
+
+
+    },
+
+    {   "nome": "Luís Ferreira",
+        "comentarios": "👍"
+
+
+
+    }
+
+    ]
+
+}
